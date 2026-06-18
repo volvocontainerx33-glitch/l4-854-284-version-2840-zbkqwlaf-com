@@ -1,0 +1,17 @@
+{
+  "site_title": "热门影片片库-热门好看的电影大全-热门影片在线点播",
+  "logo": "热门影片片库",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 10,
+  "hls_source_count_extracted_from_original_js": 150,
+  "cover_rule": "影片封面按顺序引用网站顶级目录 1.jpg 到 150.jpg，超过 150 后循环使用。",
+  "generated_files": {
+    "home": "index.html",
+    "categories": "categories.html",
+    "ranking": "rank.html",
+    "search": "search.html",
+    "detail_directory": "video/",
+    "category_directory": "category/"
+  }
+}
